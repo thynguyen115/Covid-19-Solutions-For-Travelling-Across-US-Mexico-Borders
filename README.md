@@ -1,1 +1,2 @@
-# Covid-19 Solutions For Travelling Across US-Mexico Border
+# Covinitor — Covid-19 Risk Monitor — A Solution For Traveling Across US-Mexico Border
+## Data Challenge 2020
