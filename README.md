@@ -3,4 +3,4 @@
 
 Data Challenge 2020
 
-http://todaystatistics.com/index.php/covinitor_data_challenge_2020
+Final Result: http://todaystatistics.com/index.php/covinitor_data_challenge_2020
